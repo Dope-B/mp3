@@ -10,6 +10,8 @@
  - 스피커
  - 오디오잭
 
+<img width="30%" src="https://user-images.githubusercontent.com/33209821/230914477-c948d90d-5d57-43e7-9fcf-1e804798eec5.jpg"/>
+
 #### 설명
  - 모니터의 가로, 세로, 음악 수는 전처리한다.
  ```C++
